@@ -5,7 +5,7 @@ pipeline {
 
             registryCredential = 'dockerhub'
 
-            dockerImage=''
+            dockerImage='calculator-cs-204'
 
     }
     agent any
